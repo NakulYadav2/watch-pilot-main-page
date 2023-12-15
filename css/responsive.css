@@ -1,0 +1,62 @@
+@media screen and (max-width:1214px){
+    body{
+        background-color: blue;
+}
+.productheader{
+    background-color: bisque;
+}
+.container{
+ overflow: scroll;
+ background-color: rgb(71, 40, 2);
+}
+.search{
+    justify-content: center;
+    position: relative;
+    top: 25px;
+    left:48px;
+}
+.btn{
+    position: relative;
+    right: 10px;
+
+}
+header{
+    height: 110px;
+}
+nav  {
+    flex-direction: column;
+}
+.logo{
+    justify-content: center;
+}
+ nav ul{
+    display: flex;
+   justify-content: center ;
+}
+.container .slider img{
+    position: relative;
+    right: 185px;
+height: 190px;
+}
+#ee{
+    overflow: scroll;
+}
+.line1{
+    color: aliceblue;
+}
+.line2{
+    color: aliceblue;
+}
+.line3{
+    color: aliceblue;
+}
+.line4{
+    color: aliceblue;
+}
+.line5{
+    color: aliceblue;
+}
+.line6{
+    color: aliceblue;
+}
+}

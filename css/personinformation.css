@@ -1,0 +1,59 @@
+/* personal information start */
+body
+{
+  width: 100%;
+    height: fit-content;
+    padding: 0px;
+    margin: 0px;
+    overflow-x: hidden;
+}
+html{
+  scroll-behavior: smooth ;
+}
+header{
+  position: sticky;
+  top: 0px;
+  cursor: pointer;
+}
+.compamybranding h1 {
+    height: fit-content;
+      width: fit-content;
+      color: #ffc640;
+      background: black;
+      margin: 41px;
+      padding: 6px;
+      border-radius: 15px;
+}
+.compamybranding p {
+
+    margin: 41px;
+    padding: 6px;
+
+}
+.compamybrandingintroduction{
+  line-height: 15px;
+
+}
+.soruceofPersonalinformation{
+  margin: 41px;
+    padding: 6px;
+}
+.personinformationgether {
+  margin: 41px;
+  padding: 6px;
+}
+.governmentlaw{
+  margin: 41px;
+  padding: 6px;
+}
+.governmentlaw pre b{
+  line-height: 66px;
+}
+.wholefootercontainer{
+
+  background-color: black;
+    color: aliceblue;
+    position: relative;
+    font-family: 'Noto Sans JP', sans-serif;
+    top: 370px;
+}
