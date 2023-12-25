@@ -1,0 +1,24 @@
+.tableofpayments{
+    margin: auto;
+  width: 52%;
+  background: black;
+  color: bisque;
+  margin-bottom: 100px ;
+}
+table,
+td {
+  border: 1px solid #333;
+}
+
+thead,
+tfoot {
+  background-color: #333;
+  color: #fff;
+}
+
+tbody tr{
+    height: 94px;
+}
+tbody td{
+  text-align: center;
+}
